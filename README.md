@@ -97,6 +97,7 @@ Importance:
 - Enhances Accuracy:Improves the relevance of AI responses.  
 - Optimizes Efficiency:Reduces need for retraining by refining prompt design.  
 - Improves User Experience:Provides more useful and precise outputs.
+
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt:
  "Tell me about technology."
