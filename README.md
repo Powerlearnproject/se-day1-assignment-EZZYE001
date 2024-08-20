@@ -77,7 +77,7 @@ Common Challenges:
    - Strategy:Use comprehensive logging, automated tests, and debugging tools to identify and fix issues more efficiently.
 2. Managing Scope Creep:
    - Strategy:Clearly define project requirements and maintain strict change control processes to manage and prioritize changes.
-3- Ensuring Code Quality:**
+3- Ensuring Code Quality:
    - Strategy:Implement code reviews, adhere to coding standards, and use static analysis tools to maintain high-quality code.
 4- Meeting Deadlines:
    - Strategy:Use project management techniques like Agile or Scrum to break tasks into manageable chunks and track progress regularly.
