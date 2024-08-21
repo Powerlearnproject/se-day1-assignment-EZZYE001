@@ -9,7 +9,6 @@ Explain what software engineering is and discuss its importance in the technolog
 Software engineering: is the systematic approach to designing, developing, testing, and maintaining software. 
 It is crucial in the technology industry as it ensures the creation of reliable, scalable, and secure software systems. This discipline is essential for managing complex projects, driving innovation, and maintaining competitiveness in a software-driven world.
 
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 1- Structured Programming (1960s-1970s):Introduced a systematic approach to coding, improving readability and maintainability.
